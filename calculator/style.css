@@ -1,0 +1,18 @@
+button{
+    height: 50px;
+    width: 50px;
+    line-height: 5px;
+    margin: 2px 3px;
+    border-radius: 10%;
+    font-size: 30px;
+}
+.input{
+    font-size: 20px;
+    padding: 5px 0px;
+    border: 2px solid black;
+    border-radius: 5px
+}
+body{
+    text-align: center;
+}
+
