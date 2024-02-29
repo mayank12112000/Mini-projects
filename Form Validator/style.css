@@ -1,0 +1,47 @@
+h2{
+    text-align: center;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    height: 550px;
+    width: 300px;
+    background-color: #f9fafb;
+    box-shadow: 2px 2px 2px 2px black;
+    /* text-align: center; */
+    margin: auto;
+}
+.inputBox{
+    height: 30px;
+    width: 250px;;
+    background-color: rgb(237, 228, 228);
+    margin-left: 25px;
+}
+.label{
+    text-align: center;
+    margin-left: 25px;
+    font-weight:700 ;
+}
+.block{
+    height: 100px;
+    width: 300px;
+}
+.button{
+    height: 30px;
+    width: 250px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+    background-color: rgb(113, 193, 236);
+}
+small{
+    margin-left: 25px;
+    color: red;
+    
+}
+.successMsg{
+    margin-left: 25px;
+    color: green;
+}
